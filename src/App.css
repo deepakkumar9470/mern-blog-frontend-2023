@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins&family=Roboto&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Varela Round', sans-serif;
+}
+
+body{
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: 'Varela Round', sans-serif;
+}
+
+.nav-link{
+  text-decoration: none;
+  list-style: none;
+  color: inherit;
+}
+a{
+  text-decoration: none;
+}
